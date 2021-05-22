@@ -1,0 +1,20 @@
+
+ElevateZoom Plus 8.x-1.0-dev, 2020-02-15
+----------------------------------------
+- Added the new libraries_directory_file_finder service.
+
+ElevateZoom Plus 8.x-1.0-dev, 2020-01-22
+----------------------------------------
+- Excluded formatters which use string or text such as oembed.
+
+ElevateZoom Plus 8.x-1.0-dev, 2019-04-30
+----------------------------------------
+- Issue #3051254 by gausarts, mindaugasd: Picture duplicated.
+
+ElevateZoom Plus 8.x-1.0-dev, 2019-04-19
+----------------------------------------
+- Fixed for respond schema.
+
+ElevateZoom Plus 8.x-1.0-dev, 2019-03-12
+----------------------------------------
+- Initial commit.
